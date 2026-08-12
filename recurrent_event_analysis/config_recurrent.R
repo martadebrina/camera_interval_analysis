@@ -10,4 +10,4 @@ primary_species <- "human"
 secondary_species <- "snow leopard"
 
 # Maximum survey duration in days
-survey_duration <- 30
+survey_duration <- 150
